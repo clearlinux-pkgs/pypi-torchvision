@@ -7,7 +7,7 @@
 #
 Name     : pypi-torchvision
 Version  : 0.20.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/pytorch/vision/archive/v0.20.0/vision-0.20.0.tar.gz
 Source0  : https://github.com/pytorch/vision/archive/v0.20.0/vision-0.20.0.tar.gz
 Summary  : image and video datasets and models for torch deep learning
